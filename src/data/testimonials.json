@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": 1,
+    "quote": "Webzys delivered a stunning website for my photography business. They were incredibly responsive and understood exactly what I needed. I've received so many compliments on my new site!",
+    "name": "Priya Sharma",
+    "title": "Professional Photographer",
+    "stars": 5
+  },
+  {
+    "id": 2,
+    "quote": "Working with Webzys was a great experience. They made the entire process easy and delivered a beautiful website that perfectly represents our brand. Highly recommended!",
+    "name": "Vikram Mehta",
+    "title": "Small Business Owner",
+    "stars": 5
+  },
+  {
+    "id": 3,
+    "quote": "As a freelance consultant, I needed a professional website that would help me attract clients. Webzys created exactly what I needed at an affordable price. The site looks amazing!",
+    "name": "Ananya Patel",
+    "title": "Marketing Consultant",
+    "stars": 5
+  },
+  {
+    "id": 4,
+    "quote": "Webzys transformed our outdated website into a modern, user-friendly platform that has significantly increased our online inquiries. Their team was professional and delivered on time.",
+    "name": "Rahul Joshi",
+    "title": "Restaurant Owner",
+    "stars": 5
+  }
+]
